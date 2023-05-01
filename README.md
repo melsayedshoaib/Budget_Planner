@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Budget Planner Appliacation
+
+## Key Features
+
+* Determine your budget by adding your budget amount at the very beginning of the application.
+* Track your budget from the budget statistics panel, you can track your overall budget, remaining budget, and what has been spent so far so you can make sure that you are within the range of your overall budget.
+* Add/remove expenses with keeping your budget on sight, so you can track your budget hand-in-hand with your expenses.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
